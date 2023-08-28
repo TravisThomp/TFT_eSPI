@@ -1,3 +1,6 @@
+# Modifications Made
+- Configured User Setup for Project using GC9A01_DRIVER
+
 A ["Discussions"](https://github.com/Bodmer/TFT_eSPI/discussions) facility has been added for Q&A etc. Use the ["Issues"](https://github.com/Bodmer/TFT_eSPI/issues) tab only for problems with the library. Thanks!
 # News
 1. The Create_font Processing sketch has been updated to automatically create a complete C header file. The automatic opening of the font folder can also be disabled within the Processing sketch. (Thanks to Pierre-Loup Martin).
